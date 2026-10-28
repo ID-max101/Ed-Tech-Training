@@ -1,0 +1,32 @@
+{
+  "version": "3.128.38292.0",
+  "course_id": "5uJlJne1GBH",
+  "title": "Ed Tech Learner Engagement",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5eJMYT6t99p",
+      "title": "Intro Challenge",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5uADSVyU02X",
+      "title": "Scenario Choice",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 2180,
+    "height": 1198
+  },
+  "stage": {
+    "width": 1920,
+    "height": 1080
+  }
+}
